@@ -1,0 +1,58 @@
+{
+  
+  "1": {
+    "title": "Accessibility & Inclusion",
+    "content": "Accessibility &amp; Inclusion . Talk about our resources, approach and learnings re: a11y &amp; inclusion. .",
+    "url": "http://localhost:4000/docs/a11y-inclusion/",
+    "relUrl": "/docs/a11y-inclusion/"
+  }
+  ,"2": {
+    "title": "Common Language",
+    "content": "Common Language . Define the terms we are using, i.e. in-depth interviews, usability testing, etc. .",
+    "url": "http://localhost:4000/docs/common-language/",
+    "relUrl": "/docs/common-language/"
+  }
+  ,"3": {
+    "title": "Copy Style Guide",
+    "content": "Copy Style Guide . Includes Truss positioning, tone of voice, and editorial guide. .",
+    "url": "http://localhost:4000/docs/copy-guide/",
+    "relUrl": "/docs/copy-guide/"
+  }
+  ,"4": {
+    "title": "How We Work Together",
+    "content": "How We Work Together . Where we talk about how we work together as a practice (e.g. Crit/Practice, Huddle, design and content) and with product, engineering, etc. Sprinkle in some “ops” stuff as necessary. A place to share project principles and how we work with clients. Includes process visualization. explanation of working groups, guilds, committees, Truss roles and responsibilities (including design lead, product lead). .",
+    "url": "http://localhost:4000/docs/how-we-work/",
+    "relUrl": "/docs/how-we-work/"
+  }
+  ,"5": {
+    "title": "Research-Design Playbook",
+    "content": "Truss Research-Design Playbook . View it on GitHub . . Introduction . The purpose of this site: . Within Truss we have a wealth of opinions and experiences regarding design, research, and content strategy best practices, tools, approaches, and practices. The problems and choices that we encounter in our day-to-day practice are rarely new. Having a straightforward way of applying the things we collectively know to the problems we face would be a source of great efficiency for us and also a boon to the design and research communities. . This collection of resources is intended to be simple and searchable, each one containing the essence of Truss opinions. Whilst any Trussel is free to edit these documents, there is some expectation that these are to be ultimately owned and curated by the members of the design practice at Truss. To that end, proposed changes should be submitted via a pull request and leads will be identified to act as curators for particular knowledge areas. . How to use and contribute to this playbook . When contributing to this repository, please first discuss the change you wish to make via issue, or contact the lead (indicated in each section) via email before making a change. . License . The Truss Research-Design Playbook is distributed by an MIT license. . Thank you to the contributors of the Truss Research-Design Playbook . . Code of Conduct . Truss Design is committed to fostering an inclusive design community. . View our Code of Conduct on our GitHub repository. .",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  }
+  ,"6": {
+    "title": "Resources",
+    "content": "Resources . Links to our shared library, internal presentations, critique recordings. Articles and things we read that we refer to often + recommend. Download to Method Cards. .",
+    "url": "http://localhost:4000/docs/resources/",
+    "relUrl": "/docs/resources/"
+  }
+  ,"7": {
+    "title": "Team Charter",
+    "content": "Team charter and practice . About our practice, what we believe, and how we conduct research, content, and design work. . Please add content! .",
+    "url": "http://localhost:4000/docs/team-charter/",
+    "relUrl": "/docs/team-charter/"
+  }
+  ,"8": {
+    "title": "Templates",
+    "content": "Templates . Linked and open resources of templates we’ve created or used successfully in the past. Example: Miro template for Service Blueprinting. .",
+    "url": "http://localhost:4000/docs/templates/",
+    "relUrl": "/docs/templates/"
+  }
+  ,"9": {
+    "title": "Our Tools",
+    "content": "Design, Research, Content Strategy Tools . A place to talk about the tools we use and how we use them. .",
+    "url": "http://localhost:4000/docs/tools/",
+    "relUrl": "/docs/tools/"
+  }
+  
+}
