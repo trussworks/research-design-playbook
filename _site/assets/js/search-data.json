@@ -20,7 +20,7 @@
   }
   ,"4": {
     "title": "How We Work Together",
-    "content": "How We Work Together . Where we talk about how we work together as a practice (e.g. Crit/Practice, Huddle, design and content) and with product, engineering, etc. Sprinkle in some “ops” stuff as necessary. A place to share project principles and how we work with clients. Includes process visualization. explanation of working groups, guilds, committees, Truss roles and responsibilities (including design lead, product lead). .",
+    "content": "How We Work Together . Where we talk about how we work together as a practice (e.g. Crit/Practice, Huddle, design and content) and with product, engineering, etc. Sprinkle in some “ops” stuff as necessary. A place to share project principles and how we work with clients. Includes process visualization. explanation of working groups, guilds, committees, Truss roles and responsibilities (including design lead, product lead). . Truss Process . . Process Solution Learning Framework . .",
     "url": "http://localhost:4000/docs/how-we-work/",
     "relUrl": "/docs/how-we-work/"
   }
@@ -32,7 +32,7 @@
   }
   ,"6": {
     "title": "Resources",
-    "content": "Resources . Links to our shared library, internal presentations, critique recordings. Articles and things we read that we refer to often + recommend. Download to Method Cards. .",
+    "content": "Resources . Links to our shared library, internal presentations, critique recordings. Articles and things we read that we refer to often + recommend. . Articles We Often Reference . Needs content… . Downloads . A v1 of our Discovery &amp; Framing Method Cards . .",
     "url": "http://localhost:4000/docs/resources/",
     "relUrl": "/docs/resources/"
   }

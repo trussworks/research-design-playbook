@@ -10,10 +10,10 @@ Where we talk about how we work together as a practice (e.g. Crit/Practice, Hudd
 
 ### Truss Process
 
-![](https://github.com/trussworks/research-design-playbook/tree/master/assets/images/TrussProcessdiagramv6.jpg)
+![](https://github.com/trussworks/research-design-playbook/assets/images/TrussProcessdiagramv6.jpg)
 
 ### Process Solution Learning Framework
 
-![](https://github.com/trussworks/research-design-playbook/tree/master/assets/images/ProblemsSolutionsLearning.jpg)
+![](https://github.com/trussworks/research-design-playbook/assets/images/ProblemsSolutionsLearning.jpg)
 
 {: .fs-6 .fw-300 }
