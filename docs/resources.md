@@ -15,5 +15,5 @@ Needs content...
 ## Downloads
 
 ### A v1 of our Discovery & Framing Method Cards 
-![](https://github.com/trussworks/research-design-playbook/assets/pdfs/Truss-Method-Cards_Sept2019.pdf)
+![](https://github.com/trussworks/research-design-playbook/assets/pdfs/Truss-Method-Cards_Sept2019.pdf =500x)
 
