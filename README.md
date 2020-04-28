@@ -16,17 +16,18 @@ If you're not familiar with markdown syntax, check out the handy dandy guide lab
 
 ## Setting up the site on your local machine:
 
-**How to set up a local jekyll ruby environment:**
-1. Open terminal.
-2. Open your browser and go to https://github.com/monfresh/laptop
-3. Return to terminal and enter the first command you see in the readme of that directory: 
->bash <(curl -s https://raw.githubusercontent.com/monfresh/laptop/master/laptop)
-4. Allow the script to install. This may take a few minutes, which is fine.
-5. Enter a few y’s or n’s and enter  your iOS password. (More detail to come here...)
-6. Once the script is done, quit and relaunch Terminal.
-7. Then, using term, navigate to directory where you are storing your local working files (using cd to move into a directory, and ls to view files inside of a directory).
-8. Copy and paste this command, then hit enter:
->bundle exec jekyll serve
-9. Open http://localhost:4000 on your browser and you should see the site. Refresh after you’ve changed files to view your updates locally.
+**Setup bundler**
+- Check to see if you've already got bundler installed `bundler -v`, this should show a version number if already installed
+- If you don't already have bundler installed install it using `gem install bundler`
+
+**Install jekyll**
+- To install jekyll run the command `gem install jekyll`
+
+**Get the site up and running!**
+- Clone the app onto your machine using `git clone git@github.com:trussworks/research-design-playbook.git`
+- Navigate into the project using `cd research-design-playbook`
+- Make sure all dependencies are updated using `bundle install`
+- Start your local environment using `bundle exec jekyll serve`
+- Navigate to `localhost:4000` and enjoy!
 
 Woohoo! Great job! If you run into any trouble or have questions, please reach out to Mariesa (design) or Moncef (engineering).
