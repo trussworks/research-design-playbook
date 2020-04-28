@@ -49,8 +49,20 @@
     "relUrl": "/docs/templates/"
   }
   ,"9": {
+    "title": "test addition",
+    "content": "this is a new page, yo .",
+    "url": "http://localhost:4000/docs/test-addition/",
+    "relUrl": "/docs/test-addition/"
+  }
+  ,"10": {
+    "title": "Copy Style Guide",
+    "content": "new page .",
+    "url": "http://localhost:4000/docs/test-another-page/",
+    "relUrl": "/docs/test-another-page/"
+  }
+  ,"11": {
     "title": "Our Tools",
-    "content": "Design, Research, Content Strategy Tools . A place to talk about the tools we use and how we use them. .",
+    "content": "Design, Research, Content Strategy Tools for your work . A place to talk about the tools we use and how we use them. .",
     "url": "http://localhost:4000/docs/tools/",
     "relUrl": "/docs/tools/"
   }
