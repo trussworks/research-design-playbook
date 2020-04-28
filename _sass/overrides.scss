@@ -1,3 +1,17 @@
 //
 // Custom overrides from a user.
 //
+
+// NAVIGATION
+
+.navigation-list-link {
+	color: #58585A;
+	
+	&.active {
+		color: #D26048;
+	}
+
+	&:hover {
+		color: #D26048;
+	}
+}

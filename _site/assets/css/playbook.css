@@ -362,7 +362,7 @@ th {
 
 ::selection {
   color: #fff;
-  background: #F25243; }
+  background: #D26048; }
 
 html {
   font-size: 14px !important; }
@@ -371,7 +371,7 @@ html {
       font-size: 16px !important; } }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+  font-family: "Work Sans", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
   font-size: inherit;
   line-height: 1.4;
   color: #5c5962;
@@ -414,7 +414,7 @@ p {
   margin-bottom: 1em; }
 
 a {
-  color: #F25243;
+  color: #D26048;
   text-decoration: none; }
 
 a:not([class]) {
@@ -424,7 +424,7 @@ a:not([class]) {
   background-position: 0 100%;
   background-size: 1px 1px; }
   a:not([class]):hover {
-    background-image: linear-gradient(rgba(242, 82, 67, 0.45) 0%, rgba(242, 82, 67, 0.45) 100%);
+    background-image: linear-gradient(rgba(210, 96, 72, 0.45) 0%, rgba(210, 96, 72, 0.45) 100%);
     background-size: 1px 1px; }
 
 code {
@@ -465,7 +465,7 @@ hr {
   z-index: 100;
   display: flex;
   flex-wrap: wrap;
-  background-color: #f5f6fa; }
+  background-color: #f2f2f2; }
   @media (min-width: 50rem) {
     .side-bar {
       flex-wrap: nowrap;
@@ -523,7 +523,7 @@ hr {
   display: none;
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #f5f6fa; }
+  background-color: #f2f2f2; }
   @media (min-width: 50rem) {
     .page-header {
       padding-right: 2rem;
@@ -599,13 +599,21 @@ hr {
       padding-top: 0.5rem;
       padding-bottom: 0.5rem; } }
 
+.site-logo {
+  width: 100%;
+  height: 100%;
+  background-image: url("http://localhost:4000/assets/images/truss_logo.svg");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: contain; }
+
 .menu-button {
   appearance: none;
   display: flex;
   height: 100%;
   padding: 1rem;
   align-items: center;
-  color: #F25243;
+  color: #D26048;
   text-transform: uppercase;
   background: transparent;
   border: 0; }
@@ -720,7 +728,7 @@ body {
       display: inline-block;
       width: 100%;
       height: 100%;
-      fill: #F25243;
+      fill: #D26048;
       visibility: hidden; }
   .page-content .anchor-heading:hover svg,
   .page-content h1:hover > .anchor-heading svg,
@@ -937,7 +945,7 @@ li .highlight {
   font-size: inherit;
   font-weight: 500;
   line-height: 1.5;
-  color: #F25243;
+  color: #D26048;
   text-decoration: none;
   vertical-align: baseline;
   cursor: pointer;
@@ -953,7 +961,7 @@ li .highlight {
   .btn:focus:hover, .btn.selected:focus {
     box-shadow: 0 0 0 3px rgba(0, 0, 255, 0.25); }
   .btn:hover, .btn.zeroclipboard-is-hover {
-    color: #f14939; }
+    color: #d05940; }
   .btn:hover, .btn:active, .btn.zeroclipboard-is-hover, .btn.zeroclipboard-is-active {
     text-decoration: none;
     background-color: #f4f4f4; }
@@ -971,11 +979,11 @@ li .highlight {
     box-shadow: none; }
 
 .btn-outline {
-  color: #F25243;
+  color: #D26048;
   background: transparent;
   box-shadow: inset 0 0 0 2px #e6e1e8; }
   .btn-outline:hover, .btn-outline:active, .btn-outline.zeroclipboard-is-hover, .btn-outline.zeroclipboard-is-active {
-    color: #f14030;
+    color: #ce5238;
     text-decoration: none;
     background-color: transparent;
     box-shadow: inset 0 0 0 3px #e6e1e8; }
@@ -1096,7 +1104,7 @@ li .highlight {
     outline: 0;
     box-shadow: none; }
     .search-input:focus + .search-icon {
-      fill: #F25243; }
+      fill: #D26048; }
   @media (min-width: 50rem) {
     .search-input {
       background-color: #fff;
@@ -1152,7 +1160,7 @@ li .highlight {
   padding-bottom: 0.25rem;
   padding-left: 0.75rem; }
   .search-result:hover, .search-result.active {
-    background-color: #f5f6fa; }
+    background-color: #f2f2f2; }
   @media (min-width: 50rem) {
     .search-result {
       padding-right: 1rem;
@@ -1201,7 +1209,7 @@ li .highlight {
 
 .search-result-highlight {
   font-weight: bold;
-  color: #F25243; }
+  color: #D26048; }
 
 .table-wrapper {
   display: block;
@@ -5926,3 +5934,9 @@ figure.highlight {
   .py-xl-10 {
     padding-top: 4rem !important;
     padding-bottom: 4rem !important; } }
+.navigation-list-link {
+  color: #58585A; }
+  .navigation-list-link.active {
+    color: #D26048; }
+  .navigation-list-link:hover {
+    color: #D26048; }
