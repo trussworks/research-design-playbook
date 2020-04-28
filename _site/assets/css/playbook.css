@@ -371,7 +371,7 @@ html {
       font-size: 16px !important; } }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+  font-family: "Work Sans", "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
   font-size: inherit;
   line-height: 1.4;
   color: #5c5962;
@@ -465,7 +465,7 @@ hr {
   z-index: 100;
   display: flex;
   flex-wrap: wrap;
-  background-color: #f5f6fa; }
+  background-color: #f2f2f2; }
   @media (min-width: 50rem) {
     .side-bar {
       flex-wrap: nowrap;
@@ -523,7 +523,7 @@ hr {
   display: none;
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #f5f6fa; }
+  background-color: #f2f2f2; }
   @media (min-width: 50rem) {
     .page-header {
       padding-right: 2rem;
@@ -598,6 +598,14 @@ hr {
     .site-title {
       padding-top: 0.5rem;
       padding-bottom: 0.5rem; } }
+
+.site-logo {
+  width: 100%;
+  height: 100%;
+  background-image: url("http://localhost:4000/assets/images/truss-logo.png");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: contain; }
 
 .menu-button {
   appearance: none;
@@ -1152,7 +1160,7 @@ li .highlight {
   padding-bottom: 0.25rem;
   padding-left: 0.75rem; }
   .search-result:hover, .search-result.active {
-    background-color: #f5f6fa; }
+    background-color: #f2f2f2; }
   @media (min-width: 50rem) {
     .search-result {
       padding-right: 1rem;
