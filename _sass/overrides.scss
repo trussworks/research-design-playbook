@@ -2,6 +2,11 @@
 // Custom overrides from a user.
 //
 
+// BASE
+html {
+  @include fs-5;
+}
+
 // SIDENAV
 
 .navigation-list-link {
@@ -14,6 +19,10 @@
 	&:hover {
 		color: #D26048;
 	}
+}
+
+.navigation-list-item {
+	@include fs-4;
 }
 
 .side-bar {
