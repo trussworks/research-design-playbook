@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # Truss Research-Design Playbook
-{: .fs-9 }
+{: .fs-9 .fw-700 }
 
 ---
 

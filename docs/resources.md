@@ -5,6 +5,7 @@ nav_order: 9
 ---
 
 # Resources
+{: .no_toc .fw-700 }
 
 Links to our shared library, internal presentations, critique recordings. Articles and things we read that we refer to often + recommend. 
 

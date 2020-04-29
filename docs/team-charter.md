@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 # Team charter and practice
-{: .no_toc }
+{: .no_toc .fw-700 }
 
 
 About our practice, what we believe, and how we conduct research, content, and design work. 

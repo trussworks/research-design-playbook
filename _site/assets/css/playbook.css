@@ -374,7 +374,7 @@ body {
   font-family: "Work Sans", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
   font-size: inherit;
   line-height: 1.4;
-  color: #5c5962;
+  color: #141515;
   background-color: #fff; }
 
 p,
@@ -408,7 +408,7 @@ h6 {
   margin-bottom: 0.8em;
   font-weight: 500;
   line-height: 1.15;
-  color: #27262b; }
+  color: #141515; }
 
 p {
   margin-bottom: 1em; }
@@ -465,7 +465,7 @@ hr {
   z-index: 100;
   display: flex;
   flex-wrap: wrap;
-  background-color: #f2f2f2; }
+  background-color: #F4F5F7; }
   @media (min-width: 50rem) {
     .side-bar {
       flex-wrap: nowrap;
@@ -523,7 +523,7 @@ hr {
   display: none;
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #f2f2f2; }
+  background-color: #F4F5F7; }
   @media (min-width: 50rem) {
     .page-header {
       padding-right: 2rem;
@@ -585,7 +585,7 @@ hr {
   align-items: center;
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #27262b;
+  color: #141515;
   font-size: 18px !important; }
   @media (min-width: 50rem) {
     .site-title {
@@ -763,10 +763,10 @@ body {
       position: absolute;
       margin-top: 0.3em;
       margin-left: -0.8em;
-      color: rgba(92, 89, 98, 0.3);
+      color: rgba(20, 21, 21, 0.3);
       content: "- "; }
     .navigation-list-child-list .navigation-list-item.active::before {
-      color: #5c5962; }
+      color: #141515; }
 
 .navigation-list-item {
   font-size: 14px !important;
@@ -792,7 +792,7 @@ body {
   padding-bottom: 0.25rem; }
   .navigation-list-link.active {
     font-weight: 600;
-    color: #27262b;
+    color: #141515;
     text-decoration: none; }
 
 .main-nav {
@@ -1160,7 +1160,7 @@ li .highlight {
   padding-bottom: 0.25rem;
   padding-left: 0.75rem; }
   .search-result:hover, .search-result.active {
-    background-color: #f2f2f2; }
+    background-color: #F4F5F7; }
   @media (min-width: 50rem) {
     .search-result {
       padding-right: 1rem;
@@ -5935,7 +5935,7 @@ figure.highlight {
     padding-top: 4rem !important;
     padding-bottom: 4rem !important; } }
 .navigation-list-link {
-  color: #58585A; }
+  color: #091E42; }
   .navigation-list-link.active {
     color: #D26048; }
   .navigation-list-link:hover {
