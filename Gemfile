@@ -1,5 +1,3 @@
-source "https://rubygems.org"
-gemspec
-
-gem 'bundler', '2.1.2'
-gem "github-pages", group: :jekyll_plugins
+source "http://rubygems.org"
+gem "jekyll", "~> 3.8.5"
+gem "github-pages", "~> 204", group: :jekyll_plugins
