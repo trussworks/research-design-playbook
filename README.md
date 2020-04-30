@@ -49,7 +49,6 @@ After you have made edits please open up a new pull request for someone else to 
 ### How to use github to create commits and start pull requests
 - After making changes to a file you'll see a section to commit your changes
 - Add a title to your commit with a brief description of the change that you made
-![](https://github.com/trussworks/research-design-playbook/blob/jf-contribution-guide/contribution-guidelines/github-commit-empty.png)
 - Select "Create new branch for this commit and start a pull request"
 - Title your new branch with with the following format: `[your initials] - [brief description of the change]` (e.g. jf-navigation-update)
 ![](https://github.com/trussworks/research-design-playbook/blob/jf-contribution-guide/contribution-guidelines/github-commit-with-details.png)
