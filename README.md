@@ -8,19 +8,55 @@ This collection of resources is intended to be simple and searchable, each one c
 
 ## Playbook How-To:
 
-This playbook uses a static site generator called [Jekyll](https://jekyllrb.com/). Jekyll allows easy editing of content files using markdown. If you're not familiar with markdown syntax, check out the handy dandy guide labeled [markdowncheatsheet.md](markdowncheatsheet) in the main directory folder.
+This playbook uses a static site generator called [Jekyll](https://jekyllrb.com/). Jekyll allows easy editing of content files using markdown. If you're not familiar with markdown syntax, check out the handy dandy guide labeled `markdowncheatsheet.md` in the main directory folder.
 
 We are also using a Jekyll template/theme called [Just the docs](https://pmarsceill.github.io/just-the-docs/). You shouldn't need to make any edits to the template/theme when contributing content to the playbook, however if you need to or are interested please review the theme [documentation](https://pmarsceill.github.io/just-the-docs/).
 
-**Ways to contribute to the playbook**
+### Ways to contribute to the playbook
 
 There are a couple of ways you can contribute to the playbook:
-1. _For those familiar with editing a repository locally_: Clone the repository to your computer and work locally using a text editor to make the edits you desire and terminal or github desktop to pull and then push any new changes.
-2. _For those who would like to use Github to edit content_: Login and use the GitHub interface to make edits and pull requests.
+1. **For those who would like to use Github to edit content:** Login and use the GitHub interface to make edits and pull requests
+2. **For those familiar with editing a repository locally:** Clone the repository to your computer and work locally using a text editor to make the edits you desire and terminal or github desktop to pull and then push any new changes
 
-**How to make edits and additions**
+### How to make edits and additions
+
 - A majority of the content files are located in the `docs` directory
-- Inside the `docs` directory you will find each page as separate markdown file. 
+- Inside the `docs` directory you will find each page as separate markdown file
+- Editing/removing/adding markdown files to this directory will update the content in the playbook
+
+**What is this section at the top of each markdown file?**
+
+```
+---
+layout: default
+title: Copy Style Guide
+nav_order: 5
+---
+```
+
+This block is called **front matter** it tells the site what page layout to use, what the title of the page shoud be, and where to include the page in the navigation.
+
+- **layout:** you shouldn't need to change this property, we will use the `default` layout for all playbook pages for now
+- **title:** this is the title of the page that will show in the browser's title bar or page's tab
+- **nav_order:** this is the placement of the page in the side bar navigation
+
+For more details on the front matter refer to these [docs](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/#pages-with-children)
+
+## Creating pull requests for changes
+
+After you have made edits please open up a new pull request for someone else to review your edits before pushing changes to the site. Please use the following format for creating your pull request.
+
+**Title** 
+`[your initials] - [breif description of changes made]`
+
+**Body**
+```
+Pages edited: [list of pages edited]
+Edits made: [brief description of changes made]
+Additional notes (optional): [any additional notes you may want reviewers to know about]
+```
+
+After you have created your pull request please add **reviewers** to the PR (PR reviewers TBD). This will notify someone to take a look and approve your changes.
 
 ## Setting up the site on your local machine:
 
