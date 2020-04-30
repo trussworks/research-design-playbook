@@ -44,14 +44,25 @@ For more details on the front matter refer to these [docs](https://pmarsceill.gi
 
 ### Creating pull requests for changes
 
-After you have made edits please open up a new pull request for someone else to review your edits before pushing changes to the site. Please use the following format for creating your pull request.
+After you have made edits please open up a new pull request for someone else to review your edits before pushing changes to the site. 
+
+### How to use github to create commits and start pull requests
+- After making changes to a file you'll see a section to commit your changes
+- Add a title to your commit with a brief description of the change that you made
+- Select "Create new branch for this commit and start a pull request"
+- Title your new branch with with the following format: `[your initials] - [brief description of the change]` (e.g. jf-navigation-update)
+- After you **propose file change** and you will be taken to a page to start a new pull request
+
+### Writing your pull requests
+
+Please use the following format for creating your pull request.
 
 **Title**  
 `[your initials] - [breif description of changes made]`
 
 **Body**
 ```
-Pages edited: [list of pages edited]
+Page(s) edited: [list of page(s) edited]
 Edits made: [description or list of edits made]
 Additional notes (optional): [any additional notes you may want reviewers to know about]
 ```
