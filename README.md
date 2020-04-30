@@ -18,7 +18,7 @@ There are a couple of ways you can contribute to the playbook:
 1. **For those who would like to use Github to edit content:** Login and use the GitHub interface to make edits and pull requests
 2. **For those familiar with editing a repository locally:** Clone the repository to your computer and work locally using a text editor to make the edits you desire and terminal or github desktop to pull and then push any new changes
 
-### How to make edits and additions
+### How to make edits
 
 - A majority of the content files are located in the `docs` directory
 - Inside the `docs` directory you will find each page as separate markdown file
