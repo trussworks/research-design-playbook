@@ -51,7 +51,7 @@ After you have made edits please open up a new pull request for someone else to 
 - Add a title to your commit with a brief description of the change that you made
 - Select the option "Create new branch for this commit and start a pull request"
 - Title your new branch with with the following format: `[your initials] - [brief description of the change]` (e.g. jf-navigation-update)
-![](https://github.com/trussworks/research-design-playbook/blob/jf-contribution-guide/contribution-guidelines/github-commit-with-details.png)
+![](https://github.com/trussworks/research-design-playbook/blob/master/contribution-guidelines/github-commit-with-details.png)
 - After you **propose file change** you will be taken to a page to start a new pull request
 
 ### Writing your pull requests
