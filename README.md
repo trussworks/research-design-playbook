@@ -46,7 +46,7 @@ For more details on the front matter refer to these [docs](https://pmarsceill.gi
 
 After you have made edits please open up a new pull request for someone else to review your edits before pushing changes to the site. Please use the following format for creating your pull request.
 
-**Title** 
+**Title**  
 `[your initials] - [breif description of changes made]`
 
 **Body**
