@@ -18,7 +18,6 @@ Mindful of failures without glamorizing them
 Driven by craft, not tools  
 Focused on adding value, not features  
 Always learning  
-{: .mb-7}
 
 **Our process is:**  
 Human centered  
@@ -27,7 +26,6 @@ Informed by data, but driven by values and impact
 Accessible and inclusive  
 Rooted in the belief that good UX is good business  
 Comprehensive, including research, interaction, content, and structure  
-{: .mb-7}
 
 ## Capabilities
 

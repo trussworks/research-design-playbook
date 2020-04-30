@@ -5,23 +5,23 @@
 
 h1,
 .text-alpha {
-  @include fs-8;
+  @include fs-9;
   font-weight: 300;
 }
 
 h2,
 .text-beta {
-  @include fs-6;
+  @include fs-7;
 }
 
 h3,
 .text-gamma {
-  @include fs-5;
+  @include fs-6;
 }
 
 h4,
 .text-delta {
-  @include fs-2;
+  @include fs-3;
   font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -29,13 +29,13 @@ h4,
 
 h5,
 .text-epsilon {
-  @include fs-3;
+  @include fs-4;
   color: $grey-dk-200;
 }
 
 h6,
 .text-zeta {
-  @include fs-2;
+  @include fs-3;
   color: $grey-dk-200;
 }
 
