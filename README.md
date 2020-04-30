@@ -1,4 +1,4 @@
-# Welcome to the Truss Research-Design Playbook
+# Welcome to the Truss Research and Design Playbook
 
 ## Purpose of this Playbook:
 
@@ -52,7 +52,7 @@ After you have made edits please open up a new pull request for someone else to 
 - Select the option "Create new branch for this commit and start a pull request"
 - Title your new branch with with the following format: `[your initials] - [brief description of the change]` (e.g. jf-navigation-update)
 ![](https://github.com/trussworks/research-design-playbook/blob/jf-contribution-guide/contribution-guidelines/github-commit-with-details.png)
-- After you **propose file change** and you will be taken to a page to start a new pull request
+- After you **propose file change** you will be taken to a page to start a new pull request
 
 ### Writing your pull requests
 
