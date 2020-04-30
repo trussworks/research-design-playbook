@@ -52,7 +52,7 @@ After you have made edits please open up a new pull request for someone else to 
 **Body**
 ```
 Pages edited: [list of pages edited]
-Edits made: [brief description of changes made]
+Edits made: [description or list of edits made]
 Additional notes (optional): [any additional notes you may want reviewers to know about]
 ```
 
@@ -74,4 +74,4 @@ After you have created your pull request please add **reviewers** to the PR (PR 
 - Start your local environment using `bundle exec jekyll serve`
 - Navigate to `localhost:4000` and enjoy!
 
-Woohoo! Great job! If you run into any trouble or have questions, please reach out to Mariesa (design) or Moncef (engineering).
+Woohoo! Great job! If you run into any trouble or have questions, please reach out to Josh (design).
