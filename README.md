@@ -42,7 +42,7 @@ This block is called **front matter** it tells the site what page layout to use,
 
 For more details on the front matter refer to these [docs](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/#pages-with-children)
 
-## Creating pull requests for changes
+### Creating pull requests for changes
 
 After you have made edits please open up a new pull request for someone else to review your edits before pushing changes to the site. Please use the following format for creating your pull request.
 
