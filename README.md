@@ -8,11 +8,19 @@ This collection of resources is intended to be simple and searchable, each one c
 
 ## Playbook How-To:
 
-If you're not familiar with markdown syntax, check out the handy dandy guide labeled 'markdowncheatsheet.md' in the main directory folder.
+This playbook uses a static site generator called [Jekyll](https://jekyllrb.com/). Jekyll allows easy editing of content files using markdown. If you're not familiar with markdown syntax, check out the handy dandy guide labeled [markdowncheatsheet.md](markdowncheatsheet) in the main directory folder.
 
-**To modify, update, or remove files:**
-1. Use a text editor like Sublime Text or Brackets to make the edits you desire and terminal to pull and then push any new changes.
-2. Login and use the GitHub interface to make edits and pull requests.
+We are also using a Jekyll template/theme called [Just the docs](https://pmarsceill.github.io/just-the-docs/). You shouldn't need to make any edits to the template/theme when contributing content to the playbook, however if you need to or are interested please review the theme [documentation](https://pmarsceill.github.io/just-the-docs/).
+
+**Ways to contribute to the playbook**
+
+There are a couple of ways you can contribute to the playbook:
+1. _For those familiar with editing a repository locally_: Clone the repository to your computer and work locally using a text editor to make the edits you desire and terminal or github desktop to pull and then push any new changes.
+2. _For those who would like to use Github to edit content_: Login and use the GitHub interface to make edits and pull requests.
+
+**How to make edits and additions**
+- A majority of the content files are located in the `docs` directory
+- Inside the `docs` directory you will find each page as separate markdown file. 
 
 ## Setting up the site on your local machine:
 
