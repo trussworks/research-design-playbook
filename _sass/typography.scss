@@ -5,18 +5,18 @@
 
 h1,
 .text-alpha {
-  @include fs-9;
+  @include fs-8;
   font-weight: 300;
 }
 
 h2,
 .text-beta {
-  @include fs-7;
+  @include fs-6;
 }
 
 h3,
 .text-gamma {
-  @include fs-6;
+  @include fs-5;
 }
 
 h4,

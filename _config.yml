@@ -1,4 +1,4 @@
-title: Truss Research Design Playbook
+title: Truss Research and Design Playbook
 description:  Applying the things we collectively know to the problems we face.
 baseurl: "/" # the subpath of your site, e.g. /blog
 #url: "https://research-design-playbook.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -20,7 +20,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Research Design Playbook on GitHub":
+  "Research and Design Playbook on GitHub":
     - "//github.com/trussworks/research-design-playbook"
 
 # Footer content appears at the bottom of every page's main content

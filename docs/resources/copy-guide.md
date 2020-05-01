@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Copy Style Guide
-nav_order: 5
+parent: Resources
+nav_order: 3
 ---
 
 # Copy Style Guide

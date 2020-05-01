@@ -9,6 +9,11 @@ html {
 
 // SIDENAV
 
+.navigation {
+  padding-left: $gutter-spacing-sm;
+  padding-right: $gutter-spacing-sm;
+}
+
 .navigation-list-link {
 	color: #091E42;
 	
@@ -25,6 +30,11 @@ html {
 	@include fs-4;
 }
 
+.main-nav.nav-open {
+	border-top: 1px solid #e2e2e2;
+	padding-top: 1rem;
+}
+
 .side-bar {
 	box-shadow: 1px 0 2px rgba(0,0,0,0.02), 
               2px 0 4px rgba(0,0,0,0.02), 
@@ -37,4 +47,14 @@ html {
 // SITE HEADER
 .site-header {
 	border: none;
+}
+
+.site-title {
+	padding-left: $gutter-spacing-sm;
+  padding-right: $gutter-spacing-sm;
+
+  @include mq(md) {
+  	padding-top: .5rem;
+  	padding-bottom: 0;
+  }
 }

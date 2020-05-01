@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Team Charter
+title: Team charter
 nav_order: 2
 ---
 

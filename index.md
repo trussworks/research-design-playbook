@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Research and Design Playbook
+title: Intro
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "This playbook is a guide to who we are, what we believe, and how we work. It is a critical piece of onboarding for new designers at Truss, and a resource for the entire team to document best practices as we continue to grow."
 permalink: /
 ---
 

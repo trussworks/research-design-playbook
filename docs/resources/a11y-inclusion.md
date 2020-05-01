@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Accessibility & Inclusion
-nav_order: 7
+parent: Resources
+nav_order: 5
 ---
 
 # Accessibility & Inclusion
