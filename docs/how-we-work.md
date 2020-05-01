@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How We Work Together
+title: How we work
 nav_order: 3
 ---
 
