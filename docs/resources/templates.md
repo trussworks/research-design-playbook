@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Templates
-nav_order: 8
+parent: Resources
+nav_order: 2
 ---
 
 # Templates
