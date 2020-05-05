@@ -25,10 +25,11 @@ While any Trussel is free to edit these documents, there is some expectation tha
 
 **[Resources](docs/resources/resources)** - The tools, processes, frameworks, and templates we use in our work
 
-- **[Tools](docs/resources/tools)** - The tools we use and how we use them.
+- **[Design Tools](docs/resources/tools)** - The tools we use and how we use them.
+
+- **[Templates](docs/resources/templates)** - Templates and methods we’ve created or used successfully in past projects
 
 - **[Design terminology](docs/resources/common-language)** - Definitions for commonly used design terms
 
 - **[Accessibility & inclusion](docs/resources/a11y-inclusion)** - Tools and guides to ensure our designs are accessible and inclusive
 
-- **[Templates](docs/resources/templates)** - Templates and methods we’ve created or used successfully in past projects
