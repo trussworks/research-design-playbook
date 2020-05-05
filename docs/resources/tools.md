@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Design tools
+title: Tools
 parent: Resources
 nav_order: 1
 ---

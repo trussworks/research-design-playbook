@@ -7,6 +7,16 @@ html {
   @include fs-5;
 }
 
+h1,
+.text-alpha {
+	font-weight: 700;
+}
+
+h2,
+.text-beta {
+	font-weight: 600;
+}
+
 // SIDENAV
 
 .navigation {
