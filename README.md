@@ -1,7 +1,5 @@
 # Welcome to the Truss Research and Design Playbook
 
-The source for [playbook.truss.design](https://playbook.truss.design).
-
 ## Purpose of this Playbook:
 
 Within Truss we have a wealth of opinions and experiences regarding design, research, and content strategy best practices, tools, approaches, and practices. The problems and choices that we encounter in our day-to-day practice are rarely new. Having a straightforward way of applying the things we collectively know to the problems we face would be a source of great efficiency for us and also a boon to the design and research communities.
