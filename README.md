@@ -87,7 +87,3 @@ After you have created your pull request please add **reviewers** to the PR (PR 
 - Navigate to `localhost:4000` and enjoy!
 
 Woohoo! Great job! If you run into any trouble or have questions, please reach out to Josh (design).
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-[![CC BY 4.0][cc-by-shield]][cc-by]
