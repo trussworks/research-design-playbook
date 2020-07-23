@@ -1,3 +1,8 @@
+Copyright (c) TrussWorks 2020
+Creative Commons Attribution 4.0 International License
+Source code licensed under Apache License 2
+
+
 Attribution 4.0 International
 
 =======================================================================
