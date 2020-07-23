@@ -44,7 +44,7 @@ For more details on the front matter refer to these [docs](https://pmarsceill.gi
 
 ### Creating pull requests for changes
 
-After you have made edits please open up a new pull request for someone else to review your edits before pushing changes to the site. 
+After you have made edits please open up a new pull request for someone else to review your edits before pushing changes to the site.
 
 ### How to use github to create commits and start pull requests
 - After making changes to a file you'll see a section to commit your changes
