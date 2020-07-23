@@ -44,7 +44,7 @@ For more details on the front matter refer to these [docs](https://pmarsceill.gi
 
 ### Creating pull requests for changes
 
-After you have made edits please open up a new pull request for someone else to review your edits before pushing changes to the site. 
+After you have made edits please open up a new pull request for someone else to review your edits before pushing changes to the site.
 
 ### How to use github to create commits and start pull requests
 - After making changes to a file you'll see a section to commit your changes
@@ -87,3 +87,7 @@ After you have created your pull request please add **reviewers** to the PR (PR 
 - Navigate to `localhost:4000` and enjoy!
 
 Woohoo! Great job! If you run into any trouble or have questions, please reach out to Josh (design).
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+[![CC BY 4.0][cc-by-shield]][cc-by]
