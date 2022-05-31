@@ -30,13 +30,8 @@ We have experience using a variety of tools across different projects with both 
 
 **[InVision](https://www.invisionapp.com/)** - InVision is a powerful tool for sharing low to high fidelity prototypes with users, stakeholders, engineers, and other team members. We currently have an Enterprise account which is approved for use on government contracts.
 
-**[Axure](https://www.axure.com/)** - We use Axure on some projects due to its ability to create deeply interactive prototypes.
-{: .mb-7}
-
 ## Documentation and version control
 
 **[GSuite](https://gsuite.google.com/)** - Google products are a lot at Truss. On the design team we use google docs, slides, and sheets quite a bit for research documentation, presentations, and organization. We have found that a lot of our clients also use google products which make collaboration easier.
 
 **[Github](https://github.com/)** - We are using Github more and more for documentation organization and project planning. We have been experimenting with using Github wikis to document our research and design work, and using Github projects to organize simple KanBan boards to plan and prioritize our work.
-
-**[Abstract](https://www.abstract.com/)** - For designers using Sketch version control can be a bit tricky. We use Abstract to help with version control of Sketch files. It works well as a collaboration tool for sharing design assets with other members of the team or client.
