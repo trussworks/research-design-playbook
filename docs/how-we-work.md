@@ -156,3 +156,5 @@ by Liz and Christine; December 2019 - An introduction to web accessibility, why 
 - **🔒[SABER research and design wiki walkthrough ](https://drive.google.com/a/truss.works/file/d/1UHbwAMMA7HZZdPPCNH9LZ1DtiqjBqfGg/view?usp=sharing)**  
 by Carmen, Kaleigh, and Josh; April 2020 - Walkthrough of the SABER design team’s 🔒[GitHub wiki](https://github.com/trussworks/saber-research-design/wiki) for research artifacts, decision records, and MVP work.
 
+- **🔒[Best practices for writing UI copy](https://docs.google.com/document/d/1Z7coDEBZjQ195TKlOdVFWWMmkFnVhQDv0_fFjnivmiM/edit#)** by James and Amanda. There was no recording of this OTT, but this document captures most of the content; namely, the key principles and best practices of writing good UI copy.
+

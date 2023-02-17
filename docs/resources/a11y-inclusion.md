@@ -22,4 +22,4 @@ For federal websites and digital products, we are required to meet [Section 508 
 ## Tools to test accessibility
 * **[a11y Storybook add-on](https://github.com/storybookjs/storybook/tree/next/addons/a11y)**: Used when building out a design system using [Storybook](https://storybook.js.org/). This add-on allows for each individual component and page to be tested for accessibility.
 * **[Chrome accessibility developer tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)**: A browser extension built for Chrome to inspect websites for accessibility standards
-* **[Color contract analyzer](https://webaim.org/resources/contrastchecker/)**: Tool used to quickly analyze color contrast on UI elements
+* **[Color contrast analyzer](https://webaim.org/resources/contrastchecker/)**: Tool used to quickly analyze color contrast on UI elements
