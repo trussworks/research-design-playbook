@@ -58,7 +58,7 @@ After you have made edits please open up a new pull request for someone else to 
 
 Please use the following format for creating your pull request.
 
-**Title**  
+**Title**
 `[your initials] - [breif description of changes made]`
 
 **Body**
@@ -72,18 +72,50 @@ After you have created your pull request please add **reviewers** to the PR (PR 
 
 ## Setting up the site on your local machine:
 
-**Setup bundler**
-- Check to see if you've already got bundler installed `bundler -v`, this should show a version number if already installed
-- If you don't already have bundler installed install it using `gem install bundler`
+- Clone the repo onto your machine:
+```
+git clone git@github.com:trussworks/research-design-playbook.git
+```
 
-**Install jekyll**
-- To install jekyll run the command `gem install jekyll`
+- Navigate into the project:
+ ```
+ cd research-design-playbook
+ ```
 
-**Get the site up and running!**
-- Clone the app onto your machine using `git clone git@github.com:trussworks/research-design-playbook.git`
-- Navigate into the project using `cd research-design-playbook`
-- Make sure all dependencies are updated using `bundle install`
-- Start your local environment using `bundle exec jekyll serve`
-- Navigate to `localhost:4000` and enjoy!
+Then choose one of the two methods below to run the site, which will be available
+at [http://localhost:4000/](http://localhost:4000/).
 
-Woohoo! Great job! If you run into any trouble or have questions, please reach out to Josh (design).
+### Docker
+
+If you have Docker installed you can run the following without managing Ruby on your system:
+
+```sh
+docker run -it --rm=true -v $PWD:$PWD -w $PWD -p 4000:4000 ruby:2.7.2 /bin/bash -c "gem install bundler:2.2.16 && bundle install && bundle exec jekyll serve --host 0.0.0.0"
+```
+
+### Local Ruby
+
+If you don't already have a proper Ruby environment, use
+[Moncef's script](https://github.com/monfresh/install-ruby-on-macos#install) for
+the easiest way to get set up.
+
+If you already have a working Ruby environment, make sure it's up to date:
+```shell
+gem update --system
+gem update bundler
+```
+
+You might also need to install Ruby 2.7.2 if you don't already have it. If you
+used Moncef's script, you already have it. If you didn't use Moncef's script,
+and you don't know how to install specific versions of Ruby, reach out to
+Moncef and he will sort you out in no time.
+
+Once Ruby is in order, you can install the dependencies and start the Jekyll
+server:
+
+```shell
+bundle install
+bundle exec jekyll serve
+```
+
+Woohoo! Great job! If you run into any trouble or have questions, please reach out to Moncef (Ruby expert) or Josh (design).
