@@ -4,39 +4,106 @@ title: Team charter
 nav_order: 2
 ---
 
-# Team charter and practice
+# Design-Research practice charter
 {: .fw-700 }
 
+## Truss's purpose
+Move to the edge and declare it center.
+
+
 ## Our purpose
-We help organizations succeed by identifying the right thing to build and then building it right—in that order. We advocate for the user and create experiences that are inclusive, accessible, responsive and backed by research. Work doesn’t end when the product is delivered; we are dedicated to teaching our processes and empowering our clients to continue good design practices inside their teams after we’ve gone.
+We enable teams to make decisions based on awareness and learning. This means we have done the work to understand how things and people are connected, how they influence each other, how change cascades through the system, and shared this information so our teams are able to make better decisions about how we design services and products. 
+
+**We are systems designers.**
 
 ## Our principles
 
-**We are:**  
-Curious and collaborative  
-Mindful of failures without glamorizing them  
-Driven by craft, not tools  
-Focused on adding value, not features  
-Always learning  
+**In our practice, we believe that:** 
 
-**Our process is:**  
-Human centered  
-Iterative  
-Informed by data, but driven by values and impact  
-Accessible and inclusive  
-Rooted in the belief that good UX is good business  
-Comprehensive, including research, interaction, content, and structure  
+### Transparency is the default, in how we work and the work itself
 
-## Capabilities
+### Deliverables are not all of the work. Working shoulder-to-shoulder is the work
 
-**Discovery and framing:** Researching to identify and validate problems with end users, collaborative workshopping, hypothesis generation and testing, prototyping and validation, MVP definition.
+### Designing for all people and abilities is a priority
 
-**Iterative design and validation:** Interaction, content and visual design based on research and data. Continuous testing with end users to validate and evolve our work to respond to emerging conditions.
+### Collaborative incremental progress is better than perfection
 
-**Transformation:** Teaching clients how to identify and validate assumptions and make good decisions; teaching clients how to work with designers.
+### Treating ourselves and each other with care produces better work
 
-## Superpowers
-As a team, we produce stronger work by combining our diverse skills, perspectives, and backgrounds. We have experience across multiple industries, from government and large enterprise companies to tech startups.
+_Why principles?_
 
-We’re as comfortable with complex legacy systems as we are with a blank page, and have experience building in agile environments with tight iteration. We have a track record of building strong relationships and using design and research to make projects successful.
+Principles are aspirational. 
+
+They serve as **guideposts for what edges we will center**; how we make decisions, operate, plan, and deliver work. 
+We are able to **revisit** these from time to time to determine if our actions still support the guiding principles, **modifying to fit changing needs, times, and constraints**. This will inform how we define design-research across the organization and externally.
+
+
+
+### Transparency is the default, in how we work and the work itself
+
+We value solo work time balanced with regular collaboration, working in the open, and asking for early feedback to build trust and bring people along.
+
+We proactively communicate how we are approaching the work, trade offs, decisions we are making, lessons learned, recommendations, and most importantly the why behind them.
+
+We advocate for inclusive practices, watching for ways that we unintentionally reproduce inequities and oppression in how we work and the things we design.
+
+_Truss values: BUILD ALLIANCES, SHOW UP STEP UP_
+
+
+
+### Deliverables are not all of the work. Working shoulder-to-shoulder is the work
+
+Our work doesn’t start and end with a UI; it’s relationships, adoption, and listening to the people involved with and impacted by a product or service. 
+
+We listen to understand, paying attention to what’s being said and unsaid by our teammates, users, and stakeholders.
+
+We examine systems, data, practices, company culture, and organizational structures to gain context and understand value and impact on a broad and narrow scale.
+
+We are clear about constraints we’re encountering, our own needs, we ask for help when we need it, and offer help when we see someone struggling.
+
+_Truss values: PAY ATTENTION, BUILD ALLIANCES_
+
+
+
+### Designing for all people and abilities is a priority
+
+We invest in our own learning and ensure that everyone knows the basics of how to design accessibly.
+
+We help our teammates and clients build empathy by understanding our users and their needs, behaviors, risks, and constraints, asking ‘who are we not listening to’?
+
+We recognize the need for alignment and seek to connect people across practices and teams to navigate complexity.
+
+We empower and trust others to use the tools of research and design to center users needs and problems before building solutions. We meet people where they are.
+
+_Truss values: SHOW UP, STEP UP, BUILD ALLIANCES_
+
+
+
+### Collaborative incremental progress is better than perfection
+
+We hold our preferred or ideal process lightly, prioritizing incremental progress and bringing people along over getting it perfect.
+
+We test ourselves and our ideas; we take a rigorous and attentive approach to problem solving (especially complex ones).
+
+We believe development is hypothesis driven; we make small bets as a team and measure success via user and stakeholder feedback loops.
+
+We ask questions, make decisions based on evidence, and help our internal and client partners practice this too.
+
+_Truss values: PURSUE MASTERY, BE ADAPTABLE_
+
+
+
+### Treating ourselves and each other with care produces better work
+
+We extend trust in order to build trust. We believe if teams support each other's needs, we will produce great work together.
+
+We demonstrate that radical candor begins with care for each other and demonstrating a willingness to support instead of place blame.
+
+We are willing to speak up about doing the right thing even when it’s uncomfortable or difficult for us or others.
+
+We are curious and open-minded, we provide a safe space to ask questions, and we are okay not having the answers. 
+
+We focus on working smarter, recognizing the ebb and flow of work and our energy. We protect and advocate for taking care of ourselves and teammates. We alternate intensity of work with recovery periods and advocating for each other’s needs.
+
+_Truss value: ACT WITHOUT FEAR_
 
