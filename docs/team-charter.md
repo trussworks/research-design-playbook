@@ -4,7 +4,7 @@ title: Team charter
 nav_order: 2
 ---
 
-# Design-Research practice charter
+# THIS IS OUR DESIGN CHARTER
 {: .fw-700 }
 
 ## Truss's purpose
