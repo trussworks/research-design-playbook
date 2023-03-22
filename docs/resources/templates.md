@@ -12,15 +12,15 @@ We have a growing collection of templates at our disposal for use across differe
 
 ## Research and workshops
 
-**🔒[Discovery & Framing Method Cards](https://drive.google.com/file/d/1If_bLbRyn4H8FmvIr7eBYKtu4AXcQ_Rj/view)** - We’ve created a set of method cards that outline possible Discovery and Framing activities. Each method provides the what, why, and when to use as well as a detailed explanation of the process for running it.
+**[🔒 Discovery & Framing Method Cards](https://drive.google.com/file/d/1If_bLbRyn4H8FmvIr7eBYKtu4AXcQ_Rj/view)** - We’ve created a set of method cards that outline possible Discovery and Framing activities. Each method provides the what, why, and when to use as well as a detailed explanation of the process for running it.
 
-**🔒[New project kickoff](https://miro.com/app/board/o9J_kt0cswE=/)** - This Miro board contains a growing number of activities that you can use during the kick off or inception of a new project.
+**[🔒 New project kickoff](https://miro.com/app/board/o9J_kt0cswE=/)** - This Miro board contains a growing number of activities that you can use during the kick off or inception of a new project.
 
-**🔒[Usability recruitment email template](https://drive.google.com/drive/u/0/folders/1qh4Ny2DRjsvrNLSx_GXZoOJkMXcUnmAv)** - Sample usability recruitment emails provided by [usability.gov](https://www.usability.gov/). There are templates for recruitment as well as confirmation of both in person and remote sessions.
+**[🔒 Usability recruitment email template](https://drive.google.com/drive/u/0/folders/1qh4Ny2DRjsvrNLSx_GXZoOJkMXcUnmAv)** - Sample usability recruitment emails provided by [usability.gov](https://www.usability.gov/). There are templates for recruitment as well as confirmation of both in person and remote sessions.
 
-**🔒[Usability findings template](https://docs.google.com/presentation/d/1vXfdELAda8Vhg58G0wLZb4f2oXoFzQFKbe6JibRSoaQ/edit#slide=id.g4c4243ba87_0_414)** - A sample usability finding template that outlines scope, synthesis, findings, and solutions exploration.
+**[🔒 Usability findings template](https://docs.google.com/presentation/d/1vXfdELAda8Vhg58G0wLZb4f2oXoFzQFKbe6JibRSoaQ/edit#slide=id.g4c4243ba87_0_414)** - A sample usability finding template that outlines scope, synthesis, findings, and solutions exploration.
 
-**🔒[Usability script template](https://docs.google.com/document/d/1GJ_DR_Zrho1cYNQRaMlkQ9Tz8aroVHy9Kci9-2898Z0/edit#heading=h.4uoggmftr6zl)** - A sample usability script template that outlines goals, flow, introductions, session setup, tasks, and follow up.
+**[🔒 Usability script template](https://docs.google.com/document/d/1GJ_DR_Zrho1cYNQRaMlkQ9Tz8aroVHy9Kci9-2898Z0/edit#heading=h.4uoggmftr6zl)** - A sample usability script template that outlines goals, flow, introductions, session setup, tasks, and follow up.
 {: .mb-7}
 
 ## Design systems
