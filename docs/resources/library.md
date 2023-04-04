@@ -75,7 +75,7 @@ Books, articles, and other educational resources recommended by Truss designers
   * Topic: Content design
 * [100 Things Every Designer Needs to Know About People (Voices That Matter) by Susan Weinschenk](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0136746918)
   * Topic: Design and research
-* [The Elements of Content Strategy by Erin Kissane](https://elements-of-content-strategy.abookapart.com/}
+* [The Elements of Content Strategy by Erin Kissane](https://elements-of-content-strategy.abookapart.com/)
   * Topic: Content design
 * [Microcopy: The Complete Guide by Kinneret Yifrah](https://www.microcopybook.com/)
   * Topic: Content design
