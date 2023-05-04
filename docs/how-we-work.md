@@ -19,13 +19,7 @@ As designers at Truss, we have a wealth of opportunities to both learn and deepe
 
 ## Sharing with and learning from our design teammates
 
-More brains are better than one, so we take every opportunity possible to share with and learn from other designers on our team. Here are some of the ways that unfolds:
-
-**Weekly huddles**  
-We meet for an hour every week to talk through team developments or trainings, share work, or run a workshop together. Notes from past huddles can always be found in [🔒 this shared document](https://docs.google.com/document/d/1PJLiesGhCTqUlT0mrg6PC9scS2SocV4hL98YJtscU0A/edit#heading=h.fmqjp8bk9qys).
-
-**Being humans time**  
-Every week, there is an optional 30 minutes on the calendar to get together with fellow designers and talk about not-work-related things. Because we don’t catch one another in the hallway or by the watercooler, this time is there to help us form those human-to-human connections necessary to do good work together. This is something we do [at the company-level](https://guide.truss.works/#meeting-being-humans-together-bht) and occasionally at the project-level, too. Anyone is welcome to throw out a topic ([🔒 see this list for ideas](https://docs.google.com/document/d/1GiOphvQlVfHHxhujq_pTEHMA1Ef2JZnpZq0Hm8tttQM/edit)), but be forewarned that with this group, there’s probably a 50% chance it will end up being food-related.
+More brains are better than one, so we take every opportunity possible to share with and learn from other designers on our team. We meet for an hour every week to talk through team developments or trainings, share work, or run a workshop together. Our agendas, who’s facilitating, and ideas for future huddles are all in [🔒 this spreadsheet](https://docs.google.com/spreadsheets/d/19-7uPsyNj7KpRbRJGbk92aN07f7egBs7KxjeYfhCsRs/edit#gid=1012153852). Our past huddles’ recordings are in [🔒 the same folder](https://drive.google.com/drive/u/0/folders/1JvJ265qEB7RbvNoA9BObVR3oh5OoGo17).
 
 **Critiques and share-outs**  
 We regularly share in-progress work for feedback and to learn from one another. Sometimes these are more formal critiques, and sometimes they’re just to share something interesting that might be useful to others. Past sessions that we’ve recorded can be found below:
@@ -61,22 +55,22 @@ Truss has a number of [🔒 auxiliary groups](https://docs.google.com/document/d
 
 Here are some examples of the committees, guilds, and working groups designers have joined or contributed to in the past:
 
-**[#c-compensation](https://slack.com/app_redirect?channel=c-compensation)**: Kaleigh took on a year-long stint with this group which is responsible for the company’s quarterly compensation adjustment process.
-
-**[#c-welcoming](https://slack.com/app_redirect?channel=c-welcoming)**: Liz and Monica have both taken on rotations in this committee which is responsible for helping onboard new Trussels and ensure they have support from a “buddy” in their practice during their first few months.
+**[#c-tdr](https://trussworks.slack.com/archives/CFAAT6D25)**: Amanda and Jesse (our former head of design) both managed the TDR committee, shepherding decision prototypes to acceptance (and sometimes rejection). A few TDRs have been explicitly for the design practice, including ones that founded the practice ([🔒 0021](https://docs.google.com/document/d/1TAotcsdTZEyfSXr0O4K6GnanBlApZ4xnL4-OnangU9s/edit#heading=h.7qctexvsqsup)), made a11y training available ([🔒 0083](https://docs.google.com/document/d/1cWWOaqDxzbk44k_42kLcUfueRu8PgiuWDrDO_nsqu9w/edit#heading=h.mwzeyri1eozi)), and established section 508 training ([🔒 0116](https://docs.google.com/document/d/12EFlY3Xk1q32klWI978FwCE-avKNmZZu187yA-qKyDg/edit#heading=h.7qctexvsqsup)).
 
 **[#g-frontend](https://slack.com/app_redirect?channel=g-frontend)**: Josh, James, Shauna and others from the design practice have participated in this guild which provides a collaborative space to learn and discuss best frontend development practices.
 
-**[#g-research](https://slack.com/app_redirect?channel=g-research)**: Carmen started this guild which is focused on deepening research skills, sharing best practices, and building research skills across practices.
+**[#g-accessibility](https://trussworks.slack.com/archives/CMBPU13FX)**: An excellent example of a cross-practice guild for all who want to improve our individual, project, and company-level capabilities to produce highly accessible software and practices.
 
-**[#wg-covidwriting](https://slack.com/app_redirect?channel=wg-covidwriting)**: Ryan B and Kate both jumped in to help on a short-term project to formalize and publish our best practices on distributed work.
+**[#g-content](https://trussworks.slack.com/archives/CJGP8SDPF)**: Sees mostly designers and a fair number of other practices gather to grow and bolster our content design capabilities. They also are a great example of our [🔒 Guild Shared Leadership Model](https://docs.google.com/document/d/1NwQ3N9Zzy0O_KmprdwtAovEwZDGT3TeCdr9rggzu-zI/edit?ts=5d44d762#heading=h.8oxflvtts2qi).
+
+**[#wg-covidwriting](https://slack.com/app_redirect?channel=wg-covidwriting)**: In the early throes of the pandemic, Ryan B and Kate both jumped in to help on a short-term project to formalize and publish our best practices on distributed work.
 {: .mb-7}
 
 ## Representing design in sales scopings and proposals
 
 We are fortunate to have a business development team that prioritizes practitioner participation and input in the sales process. All scoping calls with prospective commercial clients include a member of the design team so that we can ensure someone from the practice can vet the opportunity, understand the needs of the client, help determine staffing, and assist with writing the proposal.
 
-Monica helped our business development team design a more [🔒 streamlined user flow](https://miro.com/app/board/o9J_kxMVVlU=/) that details every client and internal touchpoint from the prospect stage to getting the deal signed. The [🔒 Involving Trussels in CommSales Playbook](https://docs.google.com/document/d/1353rTQtvgDz__FDffN2KTHT58R1DN_qKNo9vtU2ixTI/edit#) outlines exactly when designers get brought into the sales process, what the expectations are, and the current list of folks who are designated to assist with this effort.
+Monica helped our business development team design a more [🔒 streamlined user flow](https://miro.com/app/board/o9J_kxMVVlU=/) that details every client and internal touchpoint from the prospect stage to getting the deal signed. The [🔒 Involving Trussels in Sales Playbook](https://docs.google.com/document/d/1353rTQtvgDz__FDffN2KTHT58R1DN_qKNo9vtU2ixTI/edit#) outlines exactly when designers get brought into the sales process, what the expectations are, and the current list of folks who are designated to assist with this effort.
 
 We’ve also developed a [🔒 design-specific scoping guide](https://docs.google.com/document/d/1t00vZ-tBQM0dsop8EoUX7qZAnqzdFbpe93z58uqe3uQ/edit#heading=h.bc9uhdtcwc33) that details what makes a good project and what questions we should be asking the client in the scoping call to ensure it’s a good fit.
 {: .mb-7}
@@ -98,11 +92,10 @@ responsible for leading, who they will collaborate with, and any potential risks
 In addition to these activities, it is also critically important to discuss with the 
 entire internal team how decisions will be made, who will be involved, and how 
 they will be documented. Truss has a robust practice of using [decision records](https://github.com/joelparkerhenderson/architecture_decision_record) 
-to document decisions — which the [🔒 SABER design team adopted](https://github.com/trussworks/saber-research-design/wiki/Design-and-product-decision-records) and 
-recommends for future projects.
+to document decisions on both a company and project level.
 
 **Discovery and framing**  
-We regularly push clients to include a Discovery and Framing period at the start of each project to ensure we are all aligned on user needs, business goals, and stakeholder priorities before we settle on a solution. If there is a common thread in almost all of our projects, it’s this, and as designers, we’re often leading the charge on this effort. 
+We regularly push clients to include a Discovery and Framing (D&F) period at the start of each project to ensure we are all aligned on user needs, business goals, and stakeholder priorities before we settle on a solution. If there is a common thread in almost all of our projects, it’s this, and as designers, we’re often leading the charge on this effort. 
 
 We think of D&F as a three-phased approach:
 
@@ -156,5 +149,26 @@ by Liz and Christine; December 2019 - An introduction to web accessibility, why 
 - **[🔒 SABER research and design wiki walkthrough ](https://drive.google.com/a/truss.works/file/d/1UHbwAMMA7HZZdPPCNH9LZ1DtiqjBqfGg/view?usp=sharing)**  
 by Carmen, Kaleigh, and Josh; April 2020 - Walkthrough of the SABER design team’s [🔒 GitHub wiki](https://github.com/trussworks/saber-research-design/wiki) for research artifacts, decision records, and MVP work.
 
-- **[🔒 Best practices for writing UI copy](https://docs.google.com/document/d/1Z7coDEBZjQ195TKlOdVFWWMmkFnVhQDv0_fFjnivmiM/edit#)** by James and Amanda. There was no recording of this OTT, but this document captures most of the content; namely, the key principles and best practices of writing good UI copy.
+- **[🔒 Content wins](https://drive.google.com/file/d/1fE5FJoQO2ZBABc13lSeyMmtWkAbnjb7P/view?usp=sharing)**  
+James and Kate shared wins in content design for multiple projects in October 2020.
 
+- **[🔒 Miro best practices](https://drive.google.com/file/d/18EWW6ITPTrL65H88V0VbBJM6GyyFLRpV/view?usp=sharing)**  
+in February 2021 by former Trussel Liz and special Miro-er guest Maki Yamamoto. In this, we learned the best ways to use Miro in 2021. Tip #3 may surprise you! </clickbait>
+
+- **[🔒 HmntyCntrd](https://drive.google.com/file/d/1OdrHQ9Gc6qnhcijwQN4c0i0JhB_KeFAB/view?usp=sharing)**  
+and all its goodness that Kaleigh and Carmen (and DM Daniel Griffith) learned in March 2021.
+
+- **[🔒 Research guild / research ops ](https://drive.google.com/file/d/1oUDnSEyg6Oh61CbusvB9kskXfUlkYYcn/view?usp=sharing)**  
+in June 2021, with Mallory hosting and Kaleigh as a panelist. In this cross-practice OTT, a designer, engineer, delivery manager, and PM discussed the state of research at Truss and wth researchops is.
+
+- **[🔒 Best practices for writing UI copy](https://docs.google.com/document/d/1Z7coDEBZjQ195TKlOdVFWWMmkFnVhQDv0_fFjnivmiM/edit#)**  
+by James and Amanda in December 2021. There was no recording of this OTT, but this document captures most of the content; namely, the key principles and best practices of writing good UI copy.
+
+- **[🔒 Research about research](https://drive.google.com/drive/u/0/folders/1YKQ-n3zfM_5SBeiw8H-I9IOYjhF-eI9Y)**  
+by Sarah (in May 2022) who explored how practitioners experience how Design plans, conducts, and communicates research.
+
+- **[🔒 Design thinking for strategic initiatives](https://drive.google.com/drive/u/0/folders/1SpciQLydBjWRDlUDadceerMKVgRSjZn_)**  
+by Ryan Brooks in October 2022. Ryan covered the basics of design thinking, how they can be applied more strategically, and provided some good examples and Q&A.
+
+- **[🔒 Accessibility scorecard](https://drive.google.com/drive/u/0/folders/1UkAdw01DJsK2dVseGRgHMgLaHS9fUsGM)**  
+by Shauna in March 2023 describing how she, the design practice, and the Accessibility guild created the accessibility scorecard and the first round of results among our projects at the time.
