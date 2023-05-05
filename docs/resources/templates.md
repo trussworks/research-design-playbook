@@ -27,7 +27,7 @@ We have a growing collection of templates at our disposal for use across differe
 
 **USWDS templates/docs** - USWDS is our first stop in choosing components, typography, color palettes, and layouts for federal technology projects. The design system is built and maintained by GSA and is usually a requirement for many of our government contracts.
 
-- **[Documentation](https://designsystem.digital.gov/)** - This USWDS site provides resources and documentation for each part of the design system. We also have a dedicated Slack channel [#uswds-design-system](https://slack.com/app_redirect?channel=uswds-design-system) for questions or comments on working with the system on Truss projects.
+- **[Documentation](https://designsystem.digital.gov/)** - This USWDS site provides resources and documentation for each part of the design system. We also have a dedicated Slack channel [#g-uswds](https://trussworks.slack.com/archives/C0122MPMXL3) for questions or comments on working with the system on Truss projects.
 
 - **[Figma library](https://www.figma.com/community/file/836611771720754351/U.S.-Web-Design-System-(USWDS)-Component-library)** - For designers using Figma for UI design we’ve created a USWDS Figma component library. Some light documentation on how to use it can be found in this [blog post](https://truss.works/blog/uswds-figma-library).
 
