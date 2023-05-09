@@ -22,7 +22,7 @@ How do we compensate folks for their time in our design research activities? The
 ## Government employees
 We generally [**cannot** compensate government employees](https://www.doi.gov/ethics/gifts) due to anti-corruption measures. 
 
-We [**can** offer them](https://ogc.commerce.gov/sites/default/files/gifts-awae-2020.pdf) a modest non-cash gift valued less than $20 like a snack, trophy/challenge coin or certificate, [drawings of agency leadership in costumes](https://cmsgov.slack.com/archives/CHPGY8H9V/p1625008393044400), t-shirt, or book related to their agency or profession. The employee may still decline, just in case, so it’s worth offering up front instead of surprising them, and they are limited to $50 per year from the same donor.
+We [**can** offer them](https://ogc.commerce.gov/sites/default/files/gifts-awae-2020.pdf) a modest non-cash gift valued less than $20 like a snack, trophy/challenge coin or certificate, drawings of agency leadership in costumes (yep, someone did that once), t-shirt, or book related to their agency or profession. The employee may still decline, just in case, so it’s worth offering up front instead of surprising them, and they are limited to $50 per year from the same donor.
 
 ## Everyone else
 
