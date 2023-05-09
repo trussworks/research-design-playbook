@@ -10,7 +10,7 @@ nav_order: 6
 
 How do we compensate folks for their time in our design research activities? There are plenty of reasons to do so…
 - [Compensating research participants @ 18F](https://ux-guide.18f.gov/research/plan/#compensating-research-participants)
-- [Equity centered design @ Digital.gov](https://digital.gov/files/equity-centered-design-julieben.pptx)
+- [Equity centered design @ Digital.gov](https://digital.gov/event/2021/06/22/2021-user-experience-summit/) ([PPT](https://s3.amazonaws.com/digitalgov/static/equity-centered-design-revised.pptx))
 - [Ethical and practical considerations of paying research participants](https://www.niehs.nih.gov/research/resources/assets/docs/ethical_and_practical_considerations_of_paying_research_participants_508.pdf)
 - [Why Design Researchers Should Compensate Participants](https://medium.com/notes-off-the-grid/why-design-researchers-should-compensate-participants-a65252352f67)
 - [The influence of risk and monetary payment](https://jme.bmj.com/content/30/3/293)
