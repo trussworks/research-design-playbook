@@ -9,13 +9,13 @@ nav_order: 6
 {: .no_toc .fw-700 }
 
 How do we compensate folks for their time in our design research activities? There are plenty of reasons to do so…
-- [Compensating research participants @ 18F](https://ux-guide.18f.gov/research/plan/#compensating-research-participants)
-- [Equity centered design @ Digital.gov](https://digital.gov/event/2021/06/22/2021-user-experience-summit/) ([PPT](https://s3.amazonaws.com/digitalgov/static/equity-centered-design-revised.pptx))
-- [Ethical and practical considerations of paying research participants](https://www.niehs.nih.gov/research/resources/assets/docs/ethical_and_practical_considerations_of_paying_research_participants_508.pdf)
-- [Why Design Researchers Should Compensate Participants](https://medium.com/notes-off-the-grid/why-design-researchers-should-compensate-participants-a65252352f67)
-- [The influence of risk and monetary payment](https://jme.bmj.com/content/30/3/293)
-- [Go beyond extractive "do no harm" to produce research that "heals"](https://twitter.com/albanvillamil/status/1311687313802645504)
-- [Qualitative Research at Code for America](https://info.codeforamerica.org/qualitative-research)
+- [18F said it helped them reduce bias in research](https://ux-guide.18f.gov/research/plan/#compensating-research-participants)
+- [Digital.gov said it provided value back to participants](https://digital.gov/event/2021/06/22/2021-user-experience-summit/) ([PPT](https://s3.amazonaws.com/digitalgov/static/equity-centered-design-revised.pptx))
+- [NIH shared how it enables participation and can be a sign of respect](https://www.niehs.nih.gov/research/resources/assets/docs/ethical_and_practical_considerations_of_paying_research_participants_508.pdf)
+- [A really cool researcher discussed how it's just _fair_](https://medium.com/notes-off-the-grid/why-design-researchers-should-compensate-participants-a65252352f67)
+- [Compensation can make subjects more willing to participate in research](https://jme.bmj.com/content/30/3/293)
+- [To go beyond extractive "do no harm" to produce research that "heals"](https://twitter.com/albanvillamil/status/1311687313802645504)
+- [And finally CfA says it raised the bar on quality and effectiveness](https://info.codeforamerica.org/qualitative-research)
 
 ...but it can be challenging making this work on our projects.
 
