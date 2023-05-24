@@ -8,7 +8,10 @@ nav_order: 5
 # Accessibility & inclusion
 {: .no_toc .fw-700 }
 
-We believe that we should design products that all people regardless of their physical or mental ability, education, or technical capability can use. Here are some of our favorite resources and tools to ensure our design practices are accessible and inclusive.
+We believe that we should design products that all people—regardless of their physical or mental ability, education, or technical capability—can use. Here are some of our favorite resources and tools to ensure our design practices are accessible and inclusive.
+
+## Truss accessibility guide
+Our Accessibility Guild created a repository of information and resources surrounding accessibility practices at Truss. View the [Truss Accessibility Guide](https://github.com/trussworks/accessibility).
 
 ## Standards and guidelines
 For federal websites and digital products, we are required to meet [Section 508 standards](https://www.section508.gov/create/software-websites). Fortunately, these standards are built to align with [WCAG 2.0 Level AA guidance](https://www.w3.org/TR/WCAG20/), which many of us are already familiar with.
